@@ -1,4 +1,42 @@
 ﻿<Properties StartupConfiguration="{F4C291D3-49BD-4935-8592-7B1542CD83D9}|https">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.examAzure PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuangTu/Entities/MyDbContext.cs">
+    <Files>
+      <File FileName="QuangTu/Models/Order.cs" Line="31" Column="1" />
+      <File FileName="QuangTu/appsettings.json" Line="10" Column="13" />
+      <File FileName="QuangTu/Controllers/OrderController.cs" Line="2" Column="3" />
+      <File FileName="QuangTu/Entities/MyDbContext.cs" Line="3" Column="20" />
+      <File FileName="QuangTu/Entities/OrderTbl.cs" Line="25" Column="2" />
+      <File FileName="QuangTu/Properties/launchSettings.json" Line="13" Column="32" />
+      <File FileName="QuangTu/Program.cs" Line="10" Column="42" />
+      <File FileName="QuangTu/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="QuangTu/EmptyTextFile.txt" Line="9" Column="32" />
+      <File FileName="QuangTu/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuangTu" expanded="True" selected="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="examAzure" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
